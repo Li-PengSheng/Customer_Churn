@@ -1,0 +1,12 @@
+# IDE files
+.idea/
+.virtual_documents/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+main.ipynb
